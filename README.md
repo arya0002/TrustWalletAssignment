@@ -11,4 +11,6 @@ Create a E2E test for wallet creation
 >  > 
   5. There is 1 e2e test for wallet creation.
 
+  6. Appium server is running on http://0.0.0.0:4723 on my pc, if url needs a change it can be changed under LocalDriverImpl class
+
 
